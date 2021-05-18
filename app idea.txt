@@ -1,0 +1,43 @@
+Problem:
+	Trying to plan a party/night out or a simple dinner with friends can be a hassle.
+	Coordinating with multiple persons and making sure everyone is satisfied on where and when to meet is one of the reasons.
+	Constant inflow of message and having to look up responses inside a group chat is another among many.
+_______________
+
+Group chat menu 
+	List of your group chats
+	Add Friends
+Group Chat
+	Shows texts
+	has pinned messages that stay at the bottom created by admins of group chat
+	top right has details button
+	Admin can pin messages by pressing pin Icon right of the textbox
+Details Button
+	"Grant Admin Permissions"
+	"See Users"
+	Admins can create an event (plus sign drop down) where you can set date,time,address,notes
+	"Kick From Group"
+	"Leave"
+
+Ideas
+
+Steal some from snapchat
+	Clone Snap Maps
+	QR Code add friend
+
+Map Drawing
+	Apartment complexes can be confusing for people so I usually screenshot google maps and draw directions on it using snapchat or iphone draw to solve that problem.
+
+Voting System on Events, user prefers this event etc
+
+System to find other people near you at the club
+	public chat within a geofence
+
+
+ 
+
+
+
+	
+ 
+
